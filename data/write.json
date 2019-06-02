@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Vasya",
+        "surname": "Pupkin",
+        "sex": "male",
+        "age": 34,
+        "status": "maried"
+    },
+    {
+        "name": "Veronica",
+        "surname": "Pozarskaya",
+        "sex": "female",
+        "age": 25,
+        "status": "single"
+    },
+    {
+        "name": "Lev",
+        "surname": "Podolsky",
+        "sex": "male",
+        "age": 56,
+        "status": "single"
+    },
+    {
+        "name": "Nikolay",
+        "surname": "Kozevnikov",
+        "sex": "male",
+        "age": 45,
+        "status": "maried"
+    },
+    {
+        "name": "Anastasiya",
+        "surname": "Yarovaya",
+        "sex": "female",
+        "age": 34,
+        "status": "single"
+    },
+    {
+        "name": "Olga",
+        "surname": "Gudz",
+        "sex": "female",
+        "age": 46,
+        "status": "single"
+    }
+]
